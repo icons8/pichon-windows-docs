@@ -33,13 +33,13 @@ Once the app is installed, launch Pichon, click on the cog button in the top-rig
 
 In the **General** tab of the settings you can find Pichon's preferences:
 
-* Dark mode — lets you switch between light and dark themes to make it easier on the eyes.
-* Fix Mode on Recolor —
-* Launch with Windows — Pichon will launch upon logging in to the system.
-* Show application in the taskbar — Pichon will be shown in Windows taskbar.
-* Always on top — Makes pichon stay at the top of any opened apps.
-* Synchronize icons — 
-* Use simplified SVG — Downloaded SVG icons will have a single path. Leave this enabled if you don't plan to edit the icon.
+* **Dark mode** — lets you switch between light and dark themes to make it easier on the eyes.
+* **Fix Mode** on Recolor —
+* **Launch with Windows** — Pichon will launch upon logging in to the system.
+* **Show application in the taskbar** — Pichon will be shown in Windows taskbar.
+* **Always on top** — Makes pichon stay at the top of any opened apps.
+* **Synchronize icons** — 
+* **Use simplified SVG** — Downloaded SVG icons will have a single path. Leave this enabled if you don't plan to edit the icon.
 
 Use **Updates** tab to update Pichon, go to Icons8.com or check out our FAQ.
 
