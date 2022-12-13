@@ -1,1 +1,1 @@
-# pichon-windows-docs
+# pichon-docs
