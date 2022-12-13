@@ -43,7 +43,7 @@ In the **General** tab of the settings you can find Pichon's preferences:
 
 Use **Updates** tab to update Pichon, go to Icons8.com or check out our FAQ.
 
-## Sorting
+## Browsing
 
 Icons in Pichon are divided into **Collections**, **Styles**, and **Categories**. Clicking on a particular tab will open and close it. **Collections** include your favorites and downloaded icons and allows you to create and manage your custom collections. **Styles** tab lists all the visual styles our icons come in. **Categories** sort icons by themes and topics.
 
@@ -78,53 +78,3 @@ Recoloring is done by clicking on the colour button at the right upper corner ne
 ### License
 
 You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
-
-## Illustrations
-
-Pichon also has illustrations – you can access this library by switching between types of assets in this tab:
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/1.3.Assets.png">
-</p>
-
-### Search
-
-While searching for illustrations, you can sort them by categories and style:
-
-### Size and format
-
-Click on an illustration to choose its size and format:
-
-### License
-
-You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
-
-## Photos
-
-Illustrations from our library can be accessed by switching the asset type in this tab:
-
-<p align="center">
-  <img width="auto" height="auto" src="/public/1.3.Assets.png">
-</p>
-
-### Search
-
-Photos can be sorted by categories and tags. You can also eliminate all photos with background from your search with the 'No background' toggle:
-
-### Size and format
-
-Click on a photo to choose its size and format:
-
-### License
-
-You may use our graphic assets without payment for personal or commercial purposes if you include a link to Icons8 in your work.
-
-## My Images
-
-You can start exploring My Images tab by uploading or drag and dropping images from your device:
-
-After that, you can share the uploaded image, find similar images in Pichon's photo gallery, remove the image's background, upscale it and export the edited version. 
-
-Each image is automatically tagged by our AI detectors, but you can also add your own tags.
-
-You can organize images by adding them to different folders. Folders can be exported or shared with your Icons8 friends, same as Collections:
