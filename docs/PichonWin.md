@@ -67,13 +67,17 @@ You can also add new collections, export and share them by right-clicking – pr
 
 To download an icon, sign in, choose its size and format and either save it with a right-click or drag-drop it to wherever you want, for example, Lunacy:
 
+**Adding your own icons to a collection**
+
+You can upload your own icons to Pichon by dragging them onto an active collection area from the Explorer.
+
 **Changing the size of the icon and format**
 
-You can change the size of the icon and its format in the tab on the right which appears after you click on an icon:
+All icons will be downloaded in the format and size currently selected in the top-right dropdown menu.
 
 **Recoloring icons**
 
-Recoloring is done by clicking on the colour button at the right upper corner next to the icon style:
+Recoloring is done by clicking on the color wheel in the top-right corner of Pichon.
 
 ### License
 
