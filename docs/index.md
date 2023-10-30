@@ -21,8 +21,6 @@ page_nav:
         url: '/export'
 ---
 
-# Pichon for Windows
-
 This is an article on how to use our **Pichon** desktop app on Windows. You might be a completely new user or an experienced one – it's still a good idea to check this tutorial out, since Pichon has a lot to offer.
 
 ## Installation and Settings
